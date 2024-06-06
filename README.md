@@ -1,4 +1,4 @@
-<h1>This project is a client-server<\h1> 
+<h1>This project is a client-server</h1>
 
 application developed using Qt and TCP sockets to facilitate real-time communication. 
 The server is designed to handle multiple client connections concurrently, ensuring efficient and seamless interaction. 
